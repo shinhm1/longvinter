@@ -1,0 +1,18 @@
+
+
+[2022-04-09 00:47:09] Failed to read store 'install' from 'C:\longvinter-windows-server\Longvinter\Binaries\Win64\config\config.vdf.tmp'
+[2022-04-09 00:47:10] Flushed store 'install' to 'C:\longvinter-windows-server\Longvinter\Binaries\Win64\config\config.vdf'
+[2022-04-09 00:47:19] Flushed store 'install' to 'C:\longvinter-windows-server\Longvinter\Binaries\Win64\config\config.vdf'
+[2022-04-09 00:47:20] Flushed store 'install' to 'C:\longvinter-windows-server\Longvinter\Binaries\Win64\config\config.vdf'
+
+
+[2022-04-12 00:02:39] Loaded store 'install' from 'C:\longvinter-windows-server\Longvinter\Binaries\Win64\config\config.vdf' successfully
+[2022-04-12 00:02:49] Flushed store 'install' to 'C:\longvinter-windows-server\Longvinter\Binaries\Win64\config\config.vdf'
+
+
+[2022-04-12 23:54:34] Loaded store 'install' from 'C:\longvinter-windows-server\Longvinter\Binaries\Win64\config\config.vdf' successfully
+[2022-04-12 23:54:45] Flushed store 'install' to 'C:\longvinter-windows-server\Longvinter\Binaries\Win64\config\config.vdf'
+
+
+[2022-04-14 00:26:14] Loaded store 'install' from 'C:\longvinter-windows-server\Longvinter\Binaries\Win64\config\config.vdf' successfully
+[2022-04-14 00:26:24] Flushed store 'install' to 'C:\longvinter-windows-server\Longvinter\Binaries\Win64\config\config.vdf'
